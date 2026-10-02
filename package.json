@@ -1,0 +1,19 @@
+{
+  "name": "mealconvene",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source group meal ordering for teams. Everyone picks their own food under one per-person limit; the coach gets one cart.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "start": "node src/server.ts",
+    "dev": "node --watch src/server.ts",
+    "check": "node --check src/server.ts",
+    "test": "MC_DB=\"${MC_DB:-/tmp/mealconvene-test.db}\" sh -c 'rm -f \"$MC_DB\" \"$MC_DB\"-wal \"$MC_DB\"-shm; exec node scripts/test.ts'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

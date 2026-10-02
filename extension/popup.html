@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>MealConvene Cart Fill</title>
+<link rel="stylesheet" href="popup.css">
+</head>
+<body>
+<h1>MealConvene Cart Fill</h1>
+<form id="load">
+  <label for="url">Cart-fill link</label>
+  <input id="url" type="url" required placeholder="https://…/fill/…" autocomplete="off">
+  <button type="submit">Load order</button>
+</form>
+<p id="error" class="error" hidden></p>
+<section id="order" hidden>
+  <p><strong id="title"></strong><br><span id="meta" class="muted"></span></p>
+  <button id="show" class="go">Show on this page</button>
+  <button id="reset" class="plain">Untick everything</button>
+</section>
+<p class="muted small">Open the restaurant's order page first (for Subway: pick your store, then the menu). This never checks out or pays.</p>
+<p class="muted small">Free software under the GNU AGPL-3.0, with no warranty. <a href="https://github.com/softwareconvene/mealconvene" target="_blank" rel="noopener">Source code</a>. Not affiliated with Subway.</p>
+<script src="popup.js"></script>
+</body>
+</html>

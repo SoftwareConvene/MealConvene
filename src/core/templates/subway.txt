@@ -1,0 +1,139 @@
+// Subway starter menu.
+// Item and ingredient names come from Subway's US nutrition guide (2026).
+// ⚠ PRICES ARE PLACEHOLDERS. Every Subway store sets its own. Open your store in
+// the Subway app or site and correct them before your first order.
+// Delete anything your store doesn't carry ("at participating locations").
+// Subway® and these product names are trademarks of their owner, used only to
+// name the menu. MealConvene is not affiliated with or endorsed by Subway.
+
+Sandwiches
+> Size (pick 1)
+- 6 Inch
+- Footlong +5.00
+> Bread (pick 1)
+- Artisan Italian
+- Hearty Multigrain
+- Jalapeño Cheddar
+- Artisan Flatbread
+> Cheese (optional)
+- American
+- Monterey Cheddar
+- Pepper Jack
+- Provolone
+> Toasting (pick 1)
+- Toasted
+- Not Toasted
+> Veggies (up to 11)
+- Lettuce
+- Tomatoes
+- Cucumbers
+- Spinach
+- Onions
+- Green Peppers
+- Pickles
+- Banana Peppers
+- Jalapeños
+- Black Olives
+- Green Chiles
+> Sauces (up to 3)
+- Baja Chipotle
+- BBQ Sauce
+- Creamy Sriracha
+- Honey Mustard
+- Hot Honey Sauce
+- Mayonnaise
+- Yellow Mustard
+- MVP Parmesan Vinaigrette®
+- Peppercorn Ranch
+- Red Wine Vinegar
+- Roasted Garlic Aioli
+- Sweet Onion Teriyaki
+- Olive Oil Blend
+> Seasonings (up to 3)
+- Salt
+- Black Pepper
+- Oregano
+> Extras (up to 3)
+- Bacon +1.50
+- Pepperoni +1.00
+- Sliced Avocado +1.50
+- Extra Cheese +0.75
+- Double Protein +3.50
+Steak Philly – 8.49
+Chipotle Philly – 8.49
+Cheesy Garlic Steak – 8.49
+Grilled Chicken – 7.99
+Chicken & Bacon Ranch – 8.49
+Spicy Nacho Chicken – 8.29
+Honey Mustard BBQ Chicken – 7.99
+Sweet Onion Teriyaki Chicken® – 7.99
+B.M.T.® – 7.49
+Spicy Italian – 7.29
+5 Meat Italian – 8.29
+Meatball Marinara – 6.99
+Meatball Pepperoni – 7.49
+Oven-Roasted Turkey – 7.29
+Black Forest Ham – 6.99
+Roast Beef – 7.99
+Cold Cut Combo® – 6.49
+Tuna – 7.29
+Veggie Delite® – 5.99
+All American Club® – 8.29
+Subway Club® – 8.29
+
+Wraps
+> Cheese (optional)
+- American
+- Monterey Cheddar
+- Pepper Jack
+- Provolone
+> Toasting (pick 1)
+- Toasted
+- Not Toasted
+> Veggies (up to 11)
+- Lettuce
+- Tomatoes
+- Cucumbers
+- Spinach
+- Onions
+- Green Peppers
+- Pickles
+- Banana Peppers
+- Jalapeños
+- Black Olives
+- Green Chiles
+> Sauces (up to 3)
+- Baja Chipotle
+- BBQ Sauce
+- Creamy Sriracha
+- Honey Mustard
+- Hot Honey Sauce
+- Mayonnaise
+- Yellow Mustard
+- MVP Parmesan Vinaigrette®
+- Peppercorn Ranch
+- Red Wine Vinegar
+- Roasted Garlic Aioli
+- Sweet Onion Teriyaki
+- Olive Oil Blend
+Steak Philly – 9.99
+Grilled Chicken – 9.49
+Chicken & Bacon Ranch – 9.99
+B.M.T.® – 8.99
+Oven-Roasted Turkey – 8.79
+Black Forest Ham – 8.49
+Veggie Delite® – 7.49
+
+Sides
+Chocolate Chip Cookie – 1.00
+Double Chocolate Cookie – 1.00
+Oatmeal Raisin Cookie – 1.00
+White Chip Macadamia Nut Cookie – 1.00
+Chips – 1.79
+
+Drinks
+Fountain Drink – 2.49
+> Size (pick 1)
+- Regular
+- Large +0.40
+Bottled Water – 2.29

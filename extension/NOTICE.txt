@@ -1,0 +1,22 @@
+MealConvene Cart Fill
+Copyright (C) 2026 SoftwareConvene LLC and the MealConvene contributors
+
+This extension is part of MealConvene and is free software: you can
+redistribute it and/or modify it under the terms of the GNU Affero General
+Public License as published by the Free Software Foundation, version 3 only
+(AGPL-3.0-only). It is distributed WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+The full license is in the file LICENSE next to this one.
+
+Source code (the files in this package are the source; the full project,
+including the server, is at):
+    https://github.com/softwareconvene/mealconvene
+
+This extension never checks out or pays. It only acts in your own browser,
+on a page you opened, one item at a time.
+
+Subway(R) is a trademark of its owner. MealConvene is an independent project
+and is not affiliated with, sponsored by or endorsed by Subway or any other
+restaurant. The name appears only to say which site the cart-fill steps work on.
+
+Contact: contact@softwareconvene.org
